@@ -1,6 +1,6 @@
-package main
+package main //package declaration
 
-import "fmt"
+import "fmt" //import packages
 
 func main() {
 	fmt.Println("Hi there!")
